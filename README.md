@@ -15,12 +15,6 @@ In this repo, I share my final exam project of this course.
 | :----------: | :--------: | :------------------------------: | :-----------------------------------: |
 | `Final Exam` |  PH Tube   | ReactJs, Tailwind, daisyUI & API | https://cse-3532-final-j.netlify.app/ |
 
-## 🔗 Connected with @jobaieer
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jobaieer.surge.sh)
-[![facebook](https://img.shields.io/badge/facebook-316FF6?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jobaieerofficial)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobaieer)
-
 # API
 
 All category : - https://openapi.programming-hero.com/api/videos/categories
@@ -36,3 +30,9 @@ Example: - https://openapi.programming-hero.com/api/videos/category/1000
 - Discuss the scope of `var`, `let`, and `const`
 - Tell us the use cases of `null` and `undefined`
 - What do you mean by REST API?
+
+## 🔗 Connected with @jobaieer
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jobaieer.surge.sh)
+[![facebook](https://img.shields.io/badge/facebook-316FF6?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jobaieerofficial)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobaieer)
