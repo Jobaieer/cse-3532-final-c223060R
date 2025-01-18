@@ -1,11 +1,9 @@
-import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
-
-const All = () => <h1>All Content</h1>;
-const Music = () => <h1>Music Page</h1>;
-const Comedy = () => <h1>Comedy Page</h1>;
-const Drawing = () => <h1>Drawing Page</h1>;
+import All from "./pages/All";
+import Music from "./pages/Music";
+import Comedy from "./pages/Comedy";
+import Drawing from "./pages/Drawing";
 
 const App = () => {
   return (
