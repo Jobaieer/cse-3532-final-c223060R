@@ -92,7 +92,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <Link className="px-4 py-1 rounded *: bg-[#FF1F3D] text-white ">
+          <Link to="/blog" className="px-4 py-1 rounded *: bg-[#FF1F3D] text-white ">
             Blog
           </Link>
         </div>
